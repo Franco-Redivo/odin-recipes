@@ -1,0 +1,59 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightpink;
+}
+
+.main-title{
+    font-size: 60px;
+    color: goldenrod;
+    background-color: midnightblue;
+    padding: 6px;
+    text-align: center;
+}
+
+.link{
+    font-size: 25px;
+    text-decoration: none;
+    color: rgb(58, 165, 168);
+    font-weight: bold;
+}
+
+h2{
+    font-size: 45px;
+    color: cornflowerblue;
+    background-color: aliceblue;
+    margin-right: 55%;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+li{
+    font-size: 20px;
+}
+
+.ingredients li{
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+.steps li{
+    color: green;
+    font-weight: bold;
+}
+
+p{
+    font-size: 18px;
+}
+
+#ice-p{
+    color: cadetblue;
+}
+
+#cook-p{
+    color: crimson;
+}
+
+#tira-p{
+    color: darkgreen;
+}
