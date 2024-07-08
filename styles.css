@@ -7,7 +7,7 @@
     font-size: 60px;
     color: goldenrod;
     background-color: midnightblue;
-    padding: 6px;
+    padding: 10px 6px;
     text-align: center;
 }
 
@@ -27,6 +27,14 @@ h2{
     padding-top: 3px;
     padding-bottom: 3px;
 }
+
+.body-index li{
+    display: inline-block;
+    border: solid blue 2px;
+    padding: 5px;
+    margin: 5px;
+}
+
 
 li{
     font-size: 20px;
